@@ -11,12 +11,8 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Contact me:
  
 <div>  
   <a href = "mailto:lucianolukaszuk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
-  ![Snake animation](https://github.com/lewirty/lewirty/blob/output/github-contribution-grid-snake.svg)
-
 </div>
